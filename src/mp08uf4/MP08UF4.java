@@ -16,4 +16,5 @@ public class MP08UF4 {
     }
     private void metode1(){}
     private void metode2(){}
+    private void metode3(){}
 }
