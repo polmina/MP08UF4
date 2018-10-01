@@ -14,6 +14,5 @@ public class MP08UF4 {
     public MP08UF4(){
         
     }
-    
-    
+    private void metode1(){}
 }
